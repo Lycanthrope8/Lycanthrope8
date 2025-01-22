@@ -8,10 +8,18 @@
 - 🛠 Skilled in a wide range of technologies with a focus on blockchain and web development.
 - 👨‍👩‍👧‍👧 Based in Narayanganj, Bangladesh.
 
-<h4>🎵 &nbsp;Enjoy my coding playlist "<span style='color: #48C9B0;'>Peace</span>" on Spotify! Click below to listen:</h4>
+<p align="center">
+  <a href="mailto:jubayer.hossain@g.bracu.ac.bd?subject=Hello%20Jubayer">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>    
+  <a href="https://www.linkedin.com/in/jubayerhossain9999">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>    
+</p>
+
+<h4>🎵  Enjoy my coding playlist "<span style='color: #48C9B0;'>Peace</span>" on Spotify! Click below to listen:</h4>
 
 [![Listen on Spotify](https://img.shields.io/badge/Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3IUmfLXbVUzCvulDtm7zE4?si=0bdb984349614447)
-
 
 <details>
   <summary><b>:computer:  Main Tech Stack</b></summary>
